@@ -1,4 +1,10 @@
 import random
+import tkinter as tk
+import tkinter.messagebox
+
+root = tk.Tk()
+root.geometry("500X300")
+
 print("足し算クイズ！")
 print("ゆなちゃんは何点とれるかな〜〜？？")
 score = 0
