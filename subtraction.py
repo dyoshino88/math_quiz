@@ -41,3 +41,11 @@ for _ in range(10):
         print("せいかいは", correct_answer, "だよ〜〜！")
 
 print("点数:", score, "点")
+if score == 100:
+    print("すごい！100点まんてん！")
+elif  score > 80:
+    print("よくできました！！")
+elif score > 60:
+    print("できました！")
+else:
+    print("がんばろう！")
