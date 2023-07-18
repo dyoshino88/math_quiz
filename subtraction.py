@@ -67,7 +67,7 @@ root.title("引き算クイズ")
 
 # クイズ情報の初期化
 print("引き算クイズ！")
-print("ゆなちゃんは何点とれるかな？")  
+print("何点とれるかな？")  
 score = 0
 current_question = 0
 correct_answer = 0
